@@ -3,5 +3,4 @@ Image Classification on Happy and Sad images of small dataset.
 
 
 
-
-![download](https://user-images.githubusercontent.com/66672932/95319342-5f8b4e80-08b5-11eb-8faf-2860046365b5.jpg)
+![0710_happysad-600x360](https://user-images.githubusercontent.com/66672932/95319675-d9bbd300-08b5-11eb-9964-7dfec8189b0b.jpg)
